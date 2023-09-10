@@ -1,7 +1,8 @@
-package com.elvertoni.listatelefonica
+package com.elvertoni.listatelefonica.ui
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
+import com.elvertoni.listatelefonica.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
