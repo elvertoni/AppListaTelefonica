@@ -29,21 +29,21 @@
 
         <LinearLayout
             android:layout_width="match_parent"
-            android:layout_height="0dps"
+            android:layout_height="wrap_content"
             android:layout_weight="1"
             android:orientation="horizontal"
             android:padding="10dp">
 
             <ImageView
                 android:id="@+id/imagem_profile1"
-                android:layout_width="0dp"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:src="@drawable/profile1" />
 
             <ImageView
                 android:id="@+id/imagem_profile2"
-                android:layout_width="0dp"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:src="@drawable/profile2" />
@@ -51,21 +51,21 @@
 
         <LinearLayout
             android:layout_width="match_parent"
-            android:layout_height="0dps"
+            android:layout_height="wrap_content"
             android:layout_weight="1"
             android:orientation="horizontal"
             android:padding="10dp">
 
             <ImageView
                 android:id="@+id/imagem_profile3"
-                android:layout_width="0dp"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:src="@drawable/profile3" />
 
             <ImageView
                 android:id="@+id/imagem_profile4"
-                android:layout_width="0dp"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:src="@drawable/profile4" />
@@ -73,21 +73,21 @@
 
         <LinearLayout
             android:layout_width="match_parent"
-            android:layout_height="0dps"
+            android:layout_height="wrap_content"
             android:layout_weight="1"
             android:orientation="horizontal"
             android:padding="10dp">
 
             <ImageView
                 android:id="@+id/imagem_profile5"
-                android:layout_width="0dp"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:src="@drawable/profile5" />
 
             <ImageView
                 android:id="@+id/imagem_profile6"
-                android:layout_width="0dp"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:src="@drawable/profile6" />
